@@ -7,9 +7,13 @@
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ahmed-abu-hatab/">
+   
+  <a href="https://www.linkedin.com/in/ahmed-abu-hatab/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+  </a>
+  <a href="https://codepen.io/ahmedhasan689" target="blank">
+      <img src="https://img.shields.io/badge/Codepen-blue?style=for-the-badge&logo=codepen&logoColor=white" alt="ahmedhasan689" />
+  </a>
   <a href="https://www.facebook.com/ahmad.hattab.9">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -20,10 +24,17 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+- 🔭 I’m currently a professional in **Laravel Framework**
 
-- 👨‍💻 You Can See My CV at : [https://drive.google.com/file/d/1CYIUkjx6ndZiSKBcbEYskLg9_pZVAI7U/view?usp=sharing](https://drive.google.com/file/d/1CYIUkjx6ndZiSKBcbEYskLg9_pZVAI7U/view?usp=sharing)
+- 🌱 I’m currently learning **Vuejs, Laravel ( Advance )**
 
-- 📫 You Can reach me at email : **hlhatab@gmail.com**
+- 👯 I’m looking to collaborate **Other Back-end Developer**
+
+- 👨‍💻 All of my projects are available at : [https://drive.google.com/file/d/1CYIUkjx6ndZiSKBcbEYskLg9_pZVAI7U/view?usp=sharing](https://drive.google.com/file/d/1CYIUkjx6ndZiSKBcbEYskLg9_pZVAI7U/view?usp=sharing)
+
+- 💬 Ask me about **Laravel Framework**
+
+- 📫 How to reach me at email : **hlhatab@gmail.com**
 
 - ⚡ Fun fact : **Coding , Learn other Programming Languages**
 
