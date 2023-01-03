@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-- 🔭 I’m currently a professional in **Laravel** **Framework**
+- 🔭 I’m currently a professional in **Laravel Framework**
 
 - 🌱 I’m currently learning **Vuejs**
 
@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **Laravel Framework**
 
-- 📫 How to reach me at email : *ahm19edhasan@gmail.com**
+- 📫 How to reach me at email : **ahm19edhasan@gmail.com**
 
 - ⚡ Fun fact : **Coding , Learn other Programming Languages**
 
