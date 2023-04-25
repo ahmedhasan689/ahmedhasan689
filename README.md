@@ -30,7 +30,7 @@
 
 - 👯 I’m looking to collaborate **Other Back-end Developer**
 
-- 👨‍💻 You Can See My CV at : [https://drive.google.com/file/d/11lYas904AWZwovHLgYYyFU9Si2nlGjHP/view?usp=share_link](https://drive.google.com/file/d/11lYas904AWZwovHLgYYyFU9Si2nlGjHP/view?usp=share_link)
+- 👨‍💻 You Can See My CV at : [https://drive.google.com/file/d/1IM2wf4qSZgxZ3JN1PN91mo2Za0UsSLj8/view?usp=share_link](https://drive.google.com/file/d/1IM2wf4qSZgxZ3JN1PN91mo2Za0UsSLj8/view?usp=share_link)
 
 - 💬 Ask me about **Laravel Framework**
 
